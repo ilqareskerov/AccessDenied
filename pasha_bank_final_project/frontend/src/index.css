@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: Add any global base styles here */
+body {
+  font-family: sans-serif; /* Or a PashaBank specific font if available */
+  color: #333; /* Default text color */
+}
